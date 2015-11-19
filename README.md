@@ -2,7 +2,7 @@
 
 This repository contains the source files of the shiny application that works as an Estimator for miles per gallon from the entered car weight, transmission type and number of cylinders.
 
-The help.md contains the documentation about the application that gets incorporated into the web-page.
+ * The help.md contains the documentation about the application that gets incorporated into the web-page.
 
  * The server.R contains the calculation.
 
